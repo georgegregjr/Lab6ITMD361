@@ -39,4 +39,10 @@ body {
 #content-wrapper {
   background-image: url("../images/repeating.png");
   float: left;
-  }
+}
+  
+h2 strong {
+  font-size: 2em;
+  font-weight: 900;
+}
+  
