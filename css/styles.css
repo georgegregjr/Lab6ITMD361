@@ -29,3 +29,9 @@ body {
   margin-left: 20px;
   margin-bottom: 20px;
 }
+
+#footer {
+  background-color: #777;
+  height: 80px;
+  clear: both;
+}
